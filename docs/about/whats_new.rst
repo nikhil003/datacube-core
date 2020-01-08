@@ -27,6 +27,8 @@ v1.8rc (???)
   - Fixes binary incompatibilities in geospatial libraries.
   - Tested before being pushed to Docker Hub.
 
+- Drop support for Python 3.5.
+
 
 v1.7.0 (16 May 2019)
 ====================
